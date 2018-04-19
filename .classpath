@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/poi-3.14/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="F:/RadicalTechnology/RadicalSoftware/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteA]">
+  <test name="Create Sub Project(failed)">
+    <classes>
+      <class name="com.rb.promise.pageObjectsTests.CreateSubProjectTest">
+        <methods>
+          <include name="CreateSubProject001Test"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.rb.promise.pageObjectsTests.CreateSubProjectTest -->
+    </classes>
+  </test> <!-- Create Sub Project(failed) -->
+</suite> <!-- Failed suite [SuiteA] -->
